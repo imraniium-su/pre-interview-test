@@ -40,7 +40,7 @@
 }
 
 .column1 .logo img {
-    width: 180px;
+    width: 190px;
     /* Adjust size as needed */
     padding-right: 300px;
     color: white;
@@ -64,7 +64,7 @@
 
 h3 {
     text-align: left;
-    font-size: 25px;
+    font-size: 30px;
 
     padding-right: 220px;
 
@@ -89,6 +89,16 @@ h3 {
     .column2 {
         width: 100%;
 
+    }
+
+    .column1 .logo img {
+        width: 150px;
+
+    }
+
+    h3 {
+        text-align: left;
+        font-size: 25px;
 
     }
 }
