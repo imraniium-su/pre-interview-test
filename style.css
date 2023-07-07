@@ -120,4 +120,14 @@ h3 {
     .column1 .logo img {
         width: 150px;
     }
+
+    .icon-time {
+        line-height: 1;
+    }
+
+    .text-height {
+        line-height: 1;
+    }
+
+
 }
